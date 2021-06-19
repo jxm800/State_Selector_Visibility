@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="button1Primary">#59D155</color>
+    <color name="button1PrimaryDark">#388E35</color>
+
+    <color name="button2Primary">#9F45C6</color>
+    <color name="button2PrimaryDark">#ACACAC</color>
+    <color name="button2Accent">#D86DFF</color>
+
+    <color name="radioPrimary">#FFF17A</color>
+    <color name="radioPrimaryDark">#FFD53B</color>
+</resources>
